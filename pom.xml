@@ -149,5 +149,12 @@
             </plugin>
         </plugins>
     </build>
+    
+    <developers>
+    	<developer>
+    		<name>Felipe Rocha</name>
+    		<email>felipet.freitas@hotmail.com</email>
+    	</developer>
+    </developers>
 
 </project>
